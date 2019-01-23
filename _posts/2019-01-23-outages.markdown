@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "VSTS Outage"
+date:   2019-01-23 16:56:00 -0500
+categories: microsoft devops
+---
+
+## Services Are Down
+#### Everything Looks Good
+
+Wrapping up work for the day, I find myself checking my tasks and mentally planning for tomorrow. As I transition between screens gathering the last bits of information I need before signing off, it happened. Azure DevOps fell over. 
+
+![DevOps Is Down]({{ site.baseurl }}/images/outage-site-down.png)
+
+About to start a Google search for the DevOps status page I decided to give a click to the linked support page. To my surprise that link takes you to the status site, not the support site. Sadly, the status page for DevOps does not actually represent the real status of the service. It has been roughly fifteen minutes of  cycling between intermittent service and complete outage yet the status page still insists all is well in the world. If only that was the case.
+
+![A Status Page Never Lies]({{ site.baseurl }}/images/outage-nope.png)
+

@@ -5,8 +5,6 @@ date:   2019-01-24 08:40:00 -0500
 categories: microsoft devops
 ---
 
-## Screen Dimensions
-
 A few people have questioned the screen dimensions complaint from my original post so I wanted to take a moment to clarify exactly what I meant.
 
 ![DevOps Is Down]({{ site.baseurl }}/images/screen-dimensions-1920-too-small.png)

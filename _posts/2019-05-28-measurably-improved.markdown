@@ -13,11 +13,11 @@ It's been a few months and I'm happy to say using ADO is enjoyable now. Many fea
 
 Pipelines are the new method of viewing builds which can be enabled via the `Preview Features` panel under your user avatar. This screen is now responsive, shows generally all of the build data from a quick glance, and even works generally well on mobile. It still needs some work for mobile but it's much more usable now and I was assured more improvements are coming over the next few release cycles as they work towards full release.
 
-![Pipeline on Desktop]({{ site.baseurl }}/images/measured-improvement-pipelines-desktop.png)
-Example from a desktop
+![Pipeline on Desktop]({{ site.baseurl }}/images/measured-improvement-pipelines-desktop.png)  
+*Example from a desktop*
 
-![Pipeline on Mobile]({{ site.baseurl }}/images/measured-improvement-pipelines-mobile.png)
-Example from a phone
+![Pipeline on Mobile]({{ site.baseurl }}/images/measured-improvement-pipelines-mobile.png)  
+*Example from a phone*
 
 ### Dark Theme
 
@@ -31,5 +31,4 @@ After working with Chris and his team for on a few build issues I'm extremely ha
 
 One of my bigger complaints was a lack of a caching system. Reading around I know a lot of developers had similar issues with the CI implementation and it's lack of cache functionality. While not yet released, a cache implementation has been merged and will become available in the coming months.
 
-Reference issue: https://github.com/microsoft/azure-pipelines-yaml/pull/113
-
+Reference issue: [azure-pipelines-yaml/pull/113](https://github.com/microsoft/azure-pipelines-yaml/pull/113)

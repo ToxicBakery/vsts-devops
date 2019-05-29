@@ -5,9 +5,6 @@ date:   2019-01-23 16:56:00 -0500
 categories: microsoft devops
 ---
 
-## Services Are Down
-#### Everything Looks Good
-
 Wrapping up work for the day, I find myself checking my tasks and mentally planning for tomorrow. As I transition between screens gathering the last bits of information I need before signing off, it happened. Azure DevOps fell over. 
 
 ![DevOps Is Down]({{ site.baseurl }}/images/outage-site-down.png)

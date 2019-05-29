@@ -5,8 +5,6 @@ date:   2019-05-28 02:50:00 -0500
 categories: microsoft devops
 ---
 
-## Improvements
-
 It's been a few months and I'm happy to say using ADO is enjoyable now. Many features have been measurably improved and old issues have been eliminated and minimized. I would like to thank Microsoft, most notably Chris, for their support, feedback, and guidance.
 
 ### Pipelines
